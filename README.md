@@ -39,4 +39,10 @@ You can:
 
 - Make the layout responsive for mobile
 - Add hover animations
-- Include a logo
+- Include a logo or header image
+- Add support for multiple languages
+
+---
+
+
+
